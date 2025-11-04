@@ -77,7 +77,7 @@ To analyze company-wide revenue trends, top-performing regions, and category con
 
 | Visual | Screenshot |
 |--------|-------------|
-| **Dashboard Overview** | ![Dashboard Overview](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/Dashboard_Overview.JPG) |
+|![Dashboard Overview](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/Dashboard_Overview.JPG)|
 | **KPIs Closeup** | ![KPIs Closeup](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/KPIs_Closeup.JPG) |
 | **Revenue By Country** | ![Revenue By Country](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/Revenue_By_Country.JPG) |
 | **Donut Sales Share** | ![Donut Sales Share](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/Donut_Sales_Share.JPG) |
