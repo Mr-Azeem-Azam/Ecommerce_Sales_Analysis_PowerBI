@@ -33,25 +33,25 @@ To analyze company-wide revenue trends, top-performing regions, and category con
 
 ---
 
-## 📈 Dashboard Highlights
-### 🔹 Key Visuals
-1. **KPIs Section**  
-   - Total Revenue  
-   - Total Units Sold  
-   - Average Invoice Value  
+## 📸 Dashboard Preview  
 
-2. **Bar Chart – Total Revenue by Country**  
-   - Bar color: `#4472C4`  
-   - Shows highest performing countries by revenue  
+### 🖼️ Dashboard Overview  
+![Dashboard Overview](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/Dashboard_Overview%20.JPG)
 
-3. **Donut Chart – Revenue Share by Description**  
-   - Colors customized according to product categories  
-   - Interactive with slicers  
+---
 
-4. **Slicer – Country Selector**  
-   - Type: *Dropdown Text Slicer*  
-   - Filters all visuals dynamically  
+### 🖼️ KPIs Closeup  
+![KPIs Closeup](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/KPIs_Closeup.JPG)
 
+---
+
+### 🖼️ Revenue by Country  
+![Revenue by Country](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/Revenue_By_Country.JPG)
+
+---
+
+### 🖼️ Donut Sales Share  
+![Donut Sales Share](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/Donut_Sales_Share.JPG)
 ---
 
 ## 🎨 Theme & Formatting
