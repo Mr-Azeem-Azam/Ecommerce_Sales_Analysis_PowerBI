@@ -33,27 +33,6 @@ To analyze company-wide revenue trends, top-performing regions, and category con
 
 ---
 
-## 📸 Dashboard Preview  
-
-### 🖼️ Dashboard Overview  
-![Dashboard Overview](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/Dashboard_Overview%20.JPG)
-
----
-
-### 🖼️ KPIs Closeup  
-![KPIs Closeup](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/KPIs_Closeup.JPG)
-
----
-
-### 🖼️ Revenue by Country  
-![Revenue by Country](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/Revenue_By_Country.JPG)
-
----
-
-### 🖼️ Donut Sales Share  
-![Donut Sales Share](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/Donut_Sales_Share.JPG)
----
-
 ## 🎨 Theme & Formatting
 - **Background Color:** White (`#FFFFFF`)
 - **Title Font Color:** Dark Blue (`#1F4E79`)
@@ -73,15 +52,25 @@ To analyze company-wide revenue trends, top-performing regions, and category con
 
 ---
 
-## 📸 Dashboard Preview
+## 📸 Dashboard Preview  
 
-| Visual | Screenshot |
-|:--|:--|
-| Overview | ![Dashboard Overview](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/Dashboard_Overview.JPG) |
-| KPIs Closeup | ![KPIs Closeup](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/KPIs_Closeup.JPG) |
-| Revenue by Country | ![Revenue By Country](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/Revenue_By_Country.JPG) |
-| Donut Sales Share | ![Donut Sales Share](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/Donut_Sales_Share.JPG) |
+### 🖼️ Dashboard Overview  
+![Dashboard Overview](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/Dashboard_Overview%20.JPG)
 
+---
+
+### 🖼️ KPIs Closeup  
+![KPIs Closeup](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/KPIs_Closeup.JPG)
+
+---
+
+### 🖼️ Revenue by Country  
+![Revenue by Country](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/Revenue_By_Country.JPG)
+
+---
+
+### 🖼️ Donut Sales Share  
+![Donut Sales Share](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/Donut_Sales_Share.JPG)
 
 ---
 
