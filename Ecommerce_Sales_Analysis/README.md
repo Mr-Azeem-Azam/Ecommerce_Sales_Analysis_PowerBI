@@ -73,13 +73,14 @@ To analyze company-wide revenue trends, top-performing regions, and category con
 
 ---
 
-## 📸 Dashboard Preview
+## 📸 Dashboard Preview  
+
 | Visual | Screenshot |
-|---------|-------------|
-| Overview | ![Dashboard_Overview](./Dashboard_Overview.jpg) |
-| KPIs Closeup | ![KPIs_Closeup](./KPIs_Closeup.jpg) |
-| Revenue by Country | ![Revenue_By_Country](./Revenue_By_Country.jpg) |
-| Donut Sales Share | ![Donut_Sales_Share](./Donut_Sales_Share.jpg) |
+|:-----------------------------|:-----------------------------|
+| **Overview** | ![Dashboard Overview](Screenshots/Dashboard_Overview.jpg) |
+| **KPIs Closeup** | ![KPIs Closeup](Screenshots/KPIs_Closeup.jpg) |
+| **Revenue by Country** | ![Revenue By Country](Screenshots/Revenue_By_Country.jpg) |
+| **Donut Sales Share** | ![Donut Sales Share](Screenshots/Donut_Sales_Share.jpg) |
 
 ---
 
