@@ -73,14 +73,15 @@ To analyze company-wide revenue trends, top-performing regions, and category con
 
 ---
 
-## 📸 Dashboard Preview  
+## 📸 Dashboard Screenshots  
 
 | Visual | Screenshot |
-|:-----------------------------|:-----------------------------|
-| **Overview** | ![Dashboard Overview](Screenshots/Dashboard_Overview.jpg) |
-| **KPIs Closeup** | ![KPIs Closeup](Screenshots/KPIs_Closeup.jpg) |
-| **Revenue by Country** | ![Revenue By Country](Screenshots/Revenue_By_Country.jpg) |
-| **Donut Sales Share** | ![Donut Sales Share](Screenshots/Donut_Sales_Share.jpg) |
+|--------|-------------|
+| **Dashboard Overview** | ![Dashboard Overview](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/Dashboard_Overview.JPG) |
+| **KPIs Closeup** | ![KPIs Closeup](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/KPIs_Closeup.JPG) |
+| **Revenue By Country** | ![Revenue By Country](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/Revenue_By_Country.JPG) |
+| **Donut Sales Share** | ![Donut Sales Share](https://github.com/Mr-Azeem-Azam/Ecommerce_Sales_Analysis_PowerBI/raw/main/Ecommerce_Sales_Analysis/Screenshots/Donut_Sales_Share.JPG) |
+
 
 ---
 
